@@ -1,6 +1,7 @@
 #testing git 
 num = 11
 # If given number is greater than 1
+#kj
 if num > 1:
     # Iterate from 2 to n / 2
     for i in range(2, int(num/2)+1):
